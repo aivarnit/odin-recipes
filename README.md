@@ -21,8 +21,7 @@ Installation & Usage
 
     Clone the repository:
 
-    bash
-
+    bash:
     git clone https://github.com/avarnit/odin-recipes
 
     Open index.html in your browser to explore the recipe pages.
