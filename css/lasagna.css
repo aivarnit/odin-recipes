@@ -1,0 +1,46 @@
+body{
+    width: 50%;
+    margin: auto;
+    line-height: 1;
+}
+
+p{
+    text-align: left;
+}
+
+ul{
+    text-align: left;
+    list-style-position: inside;
+}
+
+ol{
+    margin: 0 auto;
+    list-style-position: inside;
+    text-align: left;
+}
+
+ol li p{
+    font-size: 12px;
+    font-weight: 400;
+}
+ol li{
+    font-size: 18px;
+    font-weight: 800;
+    text-align: left;
+}
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    height: auto;
+    width: 310px;
+}
+
+.title{
+    text-align: center;
+}
+
+.subtitle{
+    font-size: 18px;
+}
